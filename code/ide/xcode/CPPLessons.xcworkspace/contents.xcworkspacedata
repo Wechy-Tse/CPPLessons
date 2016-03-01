@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:L06CLASS/L06CLASS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L05VECTOR/L05VECTOR.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L04String/L04String.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L03IF/L03IF.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:L02NS/L02NS.xcodeproj">
    </FileRef>
    <FileRef
