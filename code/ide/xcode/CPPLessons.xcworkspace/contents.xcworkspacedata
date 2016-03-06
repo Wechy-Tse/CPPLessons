@@ -2,6 +2,21 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:L11SPLIT/L11SPLIT.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L10FINAL/L10FINAL.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L09MIDIAN/L09MIDIAN.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L08LESSON/L08LESSON.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L07CLASS2/L07CLASS2.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:L06CLASS/L06CLASS.xcodeproj">
    </FileRef>
    <FileRef

@@ -42,3 +42,5 @@ istream &read(istream &is, Sales_data &item){
 }
 
 
+
+

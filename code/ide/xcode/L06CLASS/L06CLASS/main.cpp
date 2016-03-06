@@ -17,6 +17,8 @@ using namespace std;
 int main(int argc, const char * argv[]) {
     // insert code here...
     Sales_data total;
+    Sales_data test = Sales_data(cin);
+//    cout << test.bookNo << " " << test.units_sold << endl;
     if (read(cin, total)) {
         Sales_data trans;
         while (read(cin, trans)) {
